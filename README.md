@@ -198,7 +198,7 @@ rm -rf ~/.cache/huggingface/
 ##  Contact
 
 - Email: furkan1234koksalan@gmail.com
-- LinkedIn: [Furkan Koksalan]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/furkan-k%C3%B6ksalan-253515286/))
+- LinkedIn:([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/furkan-k%C3%B6ksalan-253515286/))
 
 ---
 
