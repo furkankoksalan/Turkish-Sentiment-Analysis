@@ -176,7 +176,7 @@ rm -rf ~/.cache/huggingface/
 
 | Model | Accuracy | F1-Score | Precision | Recall |
 |-------|----------|----------|-----------|---------|
-| dbmdz/bert-base-turkish-cased | 0.9613 | 0.9609 | 0.9608 | 0.9613 |
+| dbmdz/bert-base-turkish-cased | 0.9585 | 0.9584 | 0.9584 | 0.9585 |
 | savasy/bert-base-turkish-sentiment-cased | 0.9602 | 0.9597 | 0.9596 | 0.9602 |
 
 ##  Future Improvements
